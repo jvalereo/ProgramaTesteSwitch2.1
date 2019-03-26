@@ -1,0 +1,11 @@
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\bin\Debug\AulaTesteSwitch2.exe.config
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\bin\Debug\AulaTesteSwitch2.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\bin\Debug\AulaTesteSwitch2.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.Form1.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.Form2.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaTesteSwitch2\AulaTesteSwitch2\obj\Debug\AulaTesteSwitch2.AboutBox1.resources
